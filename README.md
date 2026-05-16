@@ -1,5 +1,3 @@
-# 📊 Fumbgames Metrics 
-
 # Mobile Game KPI Analysis – Technical Assessment
 
 ## Overview
@@ -386,5 +384,5 @@ This exercise is less about producing perfect dashboards and more about:
 - Understanding gaming KPIs
 - Ability to communicate insights clearly
 
-A concise, well-structured analysis is usually more valuable than excessive complexity.er together!
+A concise, well-structured analysis is usually more valuable than excessive complexity.
 
