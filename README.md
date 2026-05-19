@@ -4,8 +4,6 @@
 
 The data provided is a sample of basic activity and revenue events for a live game, and i would like to evaluate how it is performing. Some of the events will be highly relevant to establishing basic performance metrics, and some won’t.
 
-
-
 ---
 
 # Tools
@@ -17,7 +15,6 @@ Examples of how to approach this exercise might be:
 - Similarly, using R Studio,
 - Or in your own local SQL environment.
 
-You might want to use a familiar tool like Microsoft Excel, Power BI, LibreOffice Calc, or Google Sheets for the charts/visualisations which is absolutely fine. 
 
 ---
 
